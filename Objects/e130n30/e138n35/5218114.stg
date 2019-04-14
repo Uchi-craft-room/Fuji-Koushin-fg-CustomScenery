@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Transport/bus-ba.ac 138.63039794 35.12398039 6.4698 100.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 138.63030615 35.12453495 6.4160 184.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 138.63038677 35.12454746 6.4159 188.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-blue.xml 138.63057404 35.12416246 6.4160 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-red.xml 138.63055046 35.12435446 6.4161 96.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.xml 138.63039184 35.12400582 6.4160 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/supacat_winch.xml 138.63042334 35.12387677 7.1116 8.0 0.0 -0.0
