@@ -1,7 +1,4 @@
 OBJECT_BASE 5218096.btg
 OBJECT RJNS.btg
-OBJECT_SHARED Models/Airport/windsock.xml 138.199804 34.791517 128.2 0.00
-
-OBJECT_SHARED Models/Airport/windsock.xml 138.178139 34.798803 128.2 0.00
-
-
+OBJECT_SHARED Models/Airport/windsock.xml 138.199804 34.791517 131.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 138.178139 34.798803 131.7 0.00
