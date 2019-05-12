@@ -7,7 +7,7 @@
       <rwy>05</rwy>
       <hdg-deg>50</hdg-deg>
       <displ-m>0.0</displ-m>
-      <stopw-m>17.5</stopw-m>
+      <stopw-m>0</stopw-m>
     </threshold>
     <threshold>
       <lon>138.408891</lon>
@@ -15,7 +15,7 @@
       <rwy>23</rwy>
       <hdg-deg>230</hdg-deg>
       <displ-m>0.0</displ-m>
-      <stopw-m>17.5</stopw-m>
+      <stopw-m>0</stopw-m>
     </threshold>
   </runway>
   <runway>
@@ -25,7 +25,7 @@
       <rwy>06</rwy>
       <hdg-deg>61.38</hdg-deg>
       <displ-m>0.0</displ-m>
-      <stopw-m>17.5</stopw-m>
+      <stopw-m>0</stopw-m>
     </threshold>
     <threshold>
       <lon>138.408913</lon>
@@ -33,7 +33,7 @@
       <rwy>24</rwy>
       <hdg-deg>241.38</hdg-deg>
       <displ-m>0.0</displ-m>
-      <stopw-m>17.5</stopw-m>
+      <stopw-m>0</stopw-m>
     </threshold>
   </runway>
 </PropertyList>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="1"
+		 lat="N35 01.431"
+		 lon="E138 24.530"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="2"
+		 lat="N35 01.416"
+		 lon="E138 24.518"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="3"
+		 lat="N35 01.405"
+		 lon="E138 24.510"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="4"
+		 lat="N35 01.394"
+		 lon="E138 24.502"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="5"
+		 lat="N35 01.384"
+		 lon="E138 24.493"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="6"
+		 lat="N35 01.373"
+		 lon="E138 24.486"
+		 heading="122"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+</groundnet>

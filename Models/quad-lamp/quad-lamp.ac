@@ -1,0 +1,516 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "StrobeLight" rgb 1 1 1 amb 1 1 1 emis 1 1 1 spec 1 1 1 shi 72 trans 0
+MATERIAL "SolidLight" rgb 0.6 0.6 0.6 amb 0.6 0.6 0.6 emis 0.6 0.6 0.6 spec 0.6 0.6 0.6 shi 72 trans 0
+OBJECT world
+kids 20
+OBJECT poly
+name "NoLight.1"
+data 8
+Mesh.008
+crease 30.000000
+numvert 4
+0.2 0 0.2
+0.2 0 -0.2
+-0.2 0 -0.2
+-0.2 0 0.2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+3 0.0 0.0
+kids 0
+OBJECT poly
+name "NoLight.2"
+data 8
+Mesh.012
+crease 30.000000
+numvert 4
+0.2 0 0.2
+0.2 0 -0.2
+-0.2 0 -0.2
+-0.2 0 0.2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+3 0.0 0.0
+kids 0
+OBJECT poly
+name "NoLight.3"
+data 8
+Mesh.013
+crease 30.000000
+numvert 4
+0.2 0 0.2
+0.2 0 -0.2
+-0.2 0 -0.2
+-0.2 0 0.2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+3 0.0 0.0
+kids 0
+OBJECT poly
+name "NoLight.4"
+data 8
+Mesh.014
+crease 30.000000
+numvert 4
+0.2 0 0.2
+0.2 0 -0.2
+-0.2 0 -0.2
+-0.2 0 0.2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+3 0.0 0.0
+kids 0
+OBJECT poly
+name "NoLight.6"
+data 8
+Mesh.015
+crease 30.000000
+numvert 4
+0.2 0 0.2
+0.2 0 -0.2
+-0.2 0 -0.2
+-0.2 0 0.2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+3 0.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.011"
+data 8
+Mesh.007
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+5.5125 5.5125 -2
+5.5125 -5.512499 -2
+-5.512501 -5.512499 -2
+-5.512498 5.512502 -2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.012"
+data 8
+Mesh.021
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.020"
+data 8
+Mesh.009
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.031"
+data 8
+Mesh.010
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+5.5125 5.5125 -2
+5.5125 -5.512499 -2
+-5.512501 -5.512499 -2
+-5.512498 5.512502 -2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.032"
+data 8
+Mesh.022
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.040"
+data 8
+Mesh.011
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.051"
+data 8
+Mesh.026
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+5.5125 5.5125 -2
+5.5125 -5.512499 -2
+-5.512501 -5.512499 -2
+-5.512498 5.512502 -2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.052"
+data 8
+Mesh.023
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.060"
+data 8
+Mesh.016
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.071"
+data 8
+Mesh.019
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+5.5125 5.5125 -2
+5.5125 -5.512499 -2
+-5.512501 -5.512499 -2
+-5.512498 5.512502 -2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.072"
+data 8
+Mesh.024
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.080"
+data 8
+Mesh.018
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.091"
+data 8
+Mesh.020
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+5.5125 5.5125 -2
+5.5125 -5.512499 -2
+-5.512501 -5.512499 -2
+-5.512498 5.512502 -2
+numsurf 2
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 1
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.092"
+data 8
+Mesh.025
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0
+OBJECT poly
+name "RedLight.100"
+data 8
+Mesh.017
+texture "rad-light.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.71875 3.71875 -3.4
+3.71875 -3.71875 -3.4
+-3.718751 -3.71875 -3.4
+-3.718749 3.718751 -3.4
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+SURF 0x00
+mat 2
+refs 3
+0 1.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0

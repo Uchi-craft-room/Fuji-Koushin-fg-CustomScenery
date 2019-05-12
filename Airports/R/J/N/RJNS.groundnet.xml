@@ -5,9 +5,98 @@
         <Parking index="0"
 		 type="gate"
 		 name="1"
-		 lat="N34 47.730"
-		 lon="E138 10.842"
-		 heading="200"
+		 lat="N34 47.736"
+		 lon="E138 10.844"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="2"
+		 lat="N34 47.752"
+		 lon="E138 10.804"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="3"
+		 lat="N34 47.768"
+		 lon="E138 10.761"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="4"
+		 lat="N34 47.786"
+		 lon="E138 10.725"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="5"
+		 lat="N34 47.790"
+		 lon="E138 10.690"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="5A-4"
+		 lat="N34 47.820"
+		 lon="E138 10.690"
+		 heading="112"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="6"
+		 lat="N34 47.835"
+		 lon="E138 10.675"
+		 heading="202"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="7"
+		 lat="N34 47.835"
+		 lon="E138 10.650"
+		 heading="022"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="8"
+		 lat="N34 47.845"
+		 lon="E138 10.630"
+		 heading="022"
 		 radius="10"
 		 airlineCodes="" />
  </parkingList>

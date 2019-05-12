@@ -1,4 +1,6 @@
 
 Navaidsフォルダ内のnav.dat.gzを
-C: / Program Files / FlightGear 2018.3.2 / data / Navaidsのnav.dat.gzと入れ替えてください。
+C: / Program Files / FlightGear 2018.*.* / data / Navaidsのnav.dat.gzと入れ替えてください。
+Navaidsフォルダ内のfix.dat.gzを
+C: / Program Files / FlightGear 2018.*.* / data / Navaidsのfix.dat.gzと入れ替えてください。
 

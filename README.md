@@ -1,5 +1,5 @@
 
-RJNS, RJNY ,RJN1,RJT2 more scenery objects and Terrain by Hitoshi Uchida "HiTouch"
+RJNS, RJNY ,RJN1,RJT2,,RJN2 more scenery objects and Terrain by Hitoshi Uchida "HiTouch"
 
 Terrain:
 地形データの製作作成には環境省生物多様性センターが公開する植生図GISデータを使用しています。  
@@ -16,3 +16,8 @@ Max.error           :20
 Max.rwy slope       :0
 Max .segment length :1000
 
+
+Navaidsフォルダ内のnav.dat.gzを
+C: / Program Files / FlightGear 2018.*.* / data / Navaidsのnav.dat.gzと入れ替えてください。
+Navaidsフォルダ内のfix.dat.gzを
+C: / Program Files / FlightGear 2018.*.* / data / Navaidsのfix.dat.gzと入れ替えてください。
