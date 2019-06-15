@@ -11,10 +11,10 @@ http://gis.biodic.go.jp/webgis
 Construct Parameter 
 Resolution          :3 arc seconds
 Min nodes           :50
-Max.nodes           :1000
-Max.error           :20
+Max.nodes           :20000
+Max.error           :5
 Max.rwy slope       :0
-Max .segment length :1000
+Max .segment length :-
 
 
 NavaidsƒtƒHƒ‹ƒ_“à‚Ìnav.dat.gz‚ð
